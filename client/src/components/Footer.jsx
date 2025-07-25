@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="md:max-w-96">
             <img className="h-9" src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/dummyLogo/dummyLogoDark.svg" alt="dummyLogoDark"/>
             <p className="mt-6 text-sm">
-                Expeience the power of AI with ABCAi.<br/>
+                Expeience the power of AI with Quick.ai.<br/>
                 Our platform offers a suite of AI tools designed<br/> to enhance your content creation process, from writing.
                
                

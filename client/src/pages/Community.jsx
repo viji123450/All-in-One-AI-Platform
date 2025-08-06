@@ -36,7 +36,7 @@ const Community = () => {
 
       if (data.success) {
         toast.success(data.message);
-        await fetchCreations(); // Refresh data
+        await fetchCreations(); 
       } else {
         toast.error(data.message);
       }

@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import { Sparkles, Hash } from 'lucide-react'; // Importing the Sparkles and Hash icons
+import { Sparkles, Hash } from 'lucide-react'; 
 import toast from 'react-hot-toast'
 import Markdown from 'react-markdown';
 import { useAuth } from '@clerk/clerk-react';
